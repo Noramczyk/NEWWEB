@@ -1,12 +1,12 @@
 import React from "react";
-import micro from "/src/videos/out.mp4"
-import javaGame from "/src/videos/javaGame.mp4"
-import stockAlgo from "/src/videos/threadAlgo.mp4"
+import micro from "/build/videos/out.mp4"
+import javaGame from "/build/videos/javaGame.mp4"
+import stockAlgo from "/build/videos/threadAlgo.mp4"
 
 const slideImages = [
-    '/src/images/P1.jpg',
-    '/src/images/P2.jpg',
-    '/src/images/P4.jpg'
+    '/build/images/P1.jpg',
+    '/build/images/P2.jpg',
+    '/build/images/P4.jpg'
   ];
   
   const properties = {

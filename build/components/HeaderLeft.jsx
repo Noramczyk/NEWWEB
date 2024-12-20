@@ -1,5 +1,5 @@
 import React from "react";
-import image from '/src/images/HalfDome.jpg'
+import image from '/build/images/HalfDome.jpg'
 import {BiCurrentLocation, BiEnvelope, BiPhone, BiSun, BiMoon, BiLogoLinkedin} from 'react-icons/bi'
 import { FaDocker,FaPython,FaReact,FaGithub,FaJava,FaLinux,FaJira,FaConfluence } from "react-icons/fa";
 import { SiCplusplus,SiTypescript,SiMysql } from "react-icons/si";
