@@ -1,7 +1,7 @@
 {
-  "homepage": "https://noramczyk.github.io/NEWWEB/",
+  "homepage": "https://noramczyk.github.io/NEWWEB",
   "name": "react-base",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
