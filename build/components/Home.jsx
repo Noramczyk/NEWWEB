@@ -1,4 +1,3 @@
-import React from "react";
 import micro from "/build/videos/out.mp4"
 import javaGame from "/build/videos/javaGame.mp4"
 import stockAlgo from "/build/videos/threadAlgo.mp4"
