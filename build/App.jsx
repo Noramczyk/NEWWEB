@@ -15,7 +15,7 @@ function App() {
     <>
       <div className={`min-h-screen w-full flex flex-col sm:flex-row 
       subpixel-antialiased ${darkmode ? "bg-black" : "bg-white"}`}>
-        <HeaderLeft darkmode={darkmode} toggleDarkMode=
+        <HeaderLeft darkMode={darkmode} toggleDarkMode=
         {toggleDarkMode}/>
         <Home />
       </div>
