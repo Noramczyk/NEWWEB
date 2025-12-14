@@ -49,6 +49,12 @@ const Home = () => {
                                 <span className="text-lg font-semibold">Software Engineer</span>
                                 <span className="font-light">Patch Plus Consulting</span>
                                 <span className="text-sm text-gray-400">05/2025 - Present</span>
+                                <span className="dark:text-gray-400">
+                                    Software team lead and architect for microservice frameworks.
+                                    Generative AI, Agentic AI, and RAG/CAG utilized to solve modern problems.
+                                    Supported simulation and integration for learning management systems (LMS).
+                                    Leveraged Azure DevOps for pipeline, software development, and collaboration.   
+                                </span>
                             </li>
                             <li className="relative flex flex-col gap-1 
                             border-1 p-6 before:absolute before:left-[-6px]
