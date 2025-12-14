@@ -41,6 +41,16 @@ const Home = () => {
 
                 <div className="flex flex-col lg:flex-row lg:gap-20">
                         <ul>
+                        <li className="relative flex flex-col gap-1 
+                            border-1 p-6 before:absolute before:left-[-6px]
+                            before:top-1/2 before:h-3 before:w-3
+                            before:-translate-y-1/2 before:rounded-full
+                            before:bg-black dark:before:bg-white
+                            before:transform">
+                                <span className="text-lg font-semibold">Software Engineer</span>
+                                <span className="font-light">Patch Plus Consulting</span>
+                                <span className="text-sm text-gray-400">05/2025 - Present</span>
+                            </li>
                             <li className="relative flex flex-col gap-1 
                             border-1 p-6 before:absolute before:left-[-6px]
                             before:top-1/2 before:h-3 before:w-3
@@ -49,7 +59,7 @@ const Home = () => {
                             before:transform">
                                 <span className="text-lg font-semibold">Software Engineer</span>
                                 <span className="font-light">Auria Space</span>
-                                <span className="text-sm text-gray-400">10/2022 - Present</span>
+                                <span className="text-sm text-gray-400">10/2022 - 05/2025</span>
                                 <span className="dark:text-gray-400">
                                 Utilized Typescript, Python, and micro-services utilized for simulation development software.
                                 Employed CI/CD pipelines for continuous integration and to identify security vulnerabilities.
